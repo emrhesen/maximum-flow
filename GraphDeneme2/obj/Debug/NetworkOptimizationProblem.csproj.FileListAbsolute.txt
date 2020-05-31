@@ -1,0 +1,15 @@
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\bin\Debug\NetworkOptimizationProblem.exe.config
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\bin\Debug\NetworkOptimizationProblem.exe
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\bin\Debug\NetworkOptimizationProblem.pdb
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\obj\Debug\NetworkOptimizationProblem.csprojAssemblyReference.cache
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\obj\Debug\NetworkOptimizationProblem.frmMain.resources
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\obj\Debug\NetworkOptimizationProblem.Properties.Resources.resources
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\obj\Debug\NetworkOptimizationProblem.csproj.GenerateResource.cache
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\obj\Debug\NetworkOptimizationProblem.csproj.CoreCompileInputs.cache
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\obj\Debug\NetworkOptimizationProblem.csproj.CopyComplete
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\obj\Debug\NetworkOptimizationProblem.exe
+C:\Users\emrah\source\repos\GraphDeneme2\GraphDeneme2\obj\Debug\NetworkOptimizationProblem.pdb
